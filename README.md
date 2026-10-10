@@ -1,0 +1,1 @@
+# globalproperty-function-
